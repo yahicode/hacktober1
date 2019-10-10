@@ -1,3 +1,2 @@
-# hacktober1
 Hi, This is Mayank.
-Hi, This is Purvesh.
+Hi, This is Purvesh
