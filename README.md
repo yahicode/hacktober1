@@ -1,2 +1,1 @@
-# hacktober1
-Hii archita
+hiii
