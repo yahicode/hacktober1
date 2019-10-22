@@ -241,4 +241,14 @@ body {margin:0;font-family:Arial}
     }
 }
 
-
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 225px;
+    color: white;
+    text-align: center;
+}
