@@ -6,7 +6,9 @@
 	padding: 0px;
 	background-color: white;
 }
-
+.container{
+	max-width: 90%;
+}
 .header{
 	border: 0px solid #dedede;
 	padding: 0px;
@@ -221,7 +223,7 @@ body {margin:0;font-family:Arial}
     float: right;
     padding: 6px;
     border: none;
-    margin-top: 8px;
+    margin-top: 8px; 
     margin-right: 16px;
     font-size: 17px;
 }
