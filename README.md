@@ -1,4 +1,3 @@
 
-# hacktober1
-Hi, This is Mayank.
-Hi, This is kalyan.
+Hi, This is Mayank..
+
