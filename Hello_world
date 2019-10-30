@@ -4,5 +4,5 @@ printf("hello world\n");
 printf("Welcome to Hacktoberfest 2019 presented by DigitalOcean and Dev\n");
 printf("Just four pull request and you will get a chance to grab a t-shirt");
 printf("Hurry!!!");
-printf("Hacktoberfest is Awesome.. :)\n")
+printf("Hacktoberfest is Awesome.. :)\n");
 }
